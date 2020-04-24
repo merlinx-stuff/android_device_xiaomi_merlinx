@@ -46,7 +46,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     FrameworksResOverlayMerlinx \
-    SystemUIOverlayMerlinx
+    SystemUIOverlayMerlinx \
+    WifiResMerlinx
 
 # Rootdir
 PRODUCT_PACKAGES += \
