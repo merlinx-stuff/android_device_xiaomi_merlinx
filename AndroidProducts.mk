@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_merlinx.mk
+    $(LOCAL_DIR)/bliss_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_merlinx-user \
-    cherish_merlinx-userdebug \
-    cherish_merlinx-eng
+    bliss_merlinx-user \
+    bliss_merlinx-userdebug \
+    bliss_merlinx-eng
