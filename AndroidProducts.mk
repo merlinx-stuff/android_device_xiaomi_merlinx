@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_merlinx.mk
+    $(LOCAL_DIR)/styx_merlinx.mk
