@@ -228,11 +228,6 @@ vendor/lib64/libmtkrilutils.so
 vendor/lib64/librilfusion.so
 vendor/lib64/libutinterface_custom_md.so
 
-# NFC
-vendor/etc/libnfc-nci.conf
-vendor/etc/libnfc-nxp.conf
-vendor/etc/libnfc-nxp_RF.conf
-
 # Graphics
 vendor/lib/libpq_cust.so
 vendor/lib/libvcodecdrv.so
